@@ -99,4 +99,6 @@ body {
   .future-degrees {
     color: rgb(248, 176, 9);
   }
- 
+ a {
+    color: #000;
+ }
